@@ -2,9 +2,15 @@
 
 > My geometric Nuxt.js project
 
+## Creation
+
+```bash
+$ npx create-nuxt-app
+```
+
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ npm run install
 
