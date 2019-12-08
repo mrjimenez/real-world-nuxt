@@ -1,5 +1,7 @@
 # real-world-nuxt
 
+![master](https://github.com/mrjimenez/real-world-nuxt/workflows/CI%20Test/badge.svg)
+
 > My geometric Nuxt.js project
 
 ## Creation
